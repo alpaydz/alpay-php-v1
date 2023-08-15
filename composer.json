@@ -1,0 +1,20 @@
+{
+    "name": "ALPAYDZ/ALPAY-PHP-V1",
+    "description": "Welcome to ALPAY, your ultimate solution for seamless online payment processing! 🚀",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ALPAY",
+            "email": "dev@alpay.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ALPAYDZ\\ALPAY-PHP-V1\\": "src/"
+        }
+    }
+}
