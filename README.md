@@ -37,7 +37,7 @@ To integrate ALPAY into your project, follow these steps:
 
 ## Usage 🛠️
 
-For detailed API documentation and usage instructions, please refer to [ALPAY API Documentation](https://docs.alpay.io).
+For detailed API documentation and usage instructions, please refer to [ALPAY API Documentation](https://alpay.io).
 
 
 
